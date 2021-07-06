@@ -7,11 +7,11 @@ body{
 }
 #contenedor{
   width: 980px;
-  heiht: 780px;
+  height: 780px;
   background: #d8c929;
   border:1px  solid #fcd;
   border-radius: 4px;
-  box-shadow: 2px 3px 2px # 777
+  box-shadow: 2px 3px 2px # 777;
 }
 h1{
     color: #fff;
